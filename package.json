@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autocannon": "^8.0.0",
     "lucide-react": "^0.560.0",
     "next": "^14.0.0",
     "react": "^18.2.0",

@@ -9,7 +9,7 @@
 const autocannon = require("autocannon");
 
 // Konfigurasi URL (sesuaikan dengan URL Anda)
-const APP_URL = process.env.APP_URL || "https://paas-app-awan.vercel.app";
+const APP_URL = process.env.APP_URL || "https://paas-app-komputasi-awan.vercel.app";
 const API_ENDPOINT = `${APP_URL}/api/hello`;
 
 console.log("🚀 Load Testing Started!");
